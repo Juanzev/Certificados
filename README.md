@@ -18,9 +18,22 @@ Os certificados estão organizados em pastas conforme suas respectivas áreas:
 ## 🏆 Certificados  
 
 ### 🖥️ **Tecnologia e Informática**  
-- 🏅 [Certificado - Introdução à Cibersegurança (Cisco Academy)](https://github.com/Juanzev/Certificados/blob/main/certificado%20Introdu%C3%A7%C3%A3o%20a%20Ciberseguran%C3%A7a.pdf)  
-- 🏅 [Certificado - Python (Cisco Academy)](https://github.com/Juanzev/Certificados/blob/main/certificado%20Python%20Essentials.pdf)  
-- 🏅 [Certificado - Informática Avançada (Prepara Cursos Profissionalizantes)]()  
+- 🏅 [Certificado - Introdução à Cibersegurança (Cisco Academy)](https://github.com/Juanzev/Certificados/blob/main/certificado%20Introdu%C3%A7%C3%A3o%20a%20Ciberseguran%C3%A7a.pdf)    
+- 🏅 [Certificado - Informática Avançada (Prepara Cursos Profissionalizantes)]()
+
+### 🐍 **Linguagens de Programação**  
+
+#### **Python**
+- 🏅 [Certificado - Python Essentials (Cisco Academy)](https://github.com/Juanzev/Certificados/blob/main/certificado%20Python%20Essentials.pdf)  
+- 🏅 [Certificado - Introdução a Python(Santander academy)](link_para_o_certificado)  
+
+#### **JavaScript**
+- 🏅 [Certificado - Fundamentos de JavaScript](link_para_o_certificado)  
+- 🏅 [Certificado - JavaScript para Desenvolvimento Web](link_para_o_certificado)  
+
+#### **Java**
+- 🏅 [Certificado - Introdução ao Java](link_para_o_certificado)  
+- 🏅 [Certificado - Java para Desenvolvimento de Aplicações](link_para_o_certificado)  
 
 ### 📊 **Administração e Gestão**  
 - 🏅 [Certificado - Administração e Gestão Empresarial (Fecomércio)](link_para_o_certificado) - **Em andamento (conclusão prevista para [26/09/2025])**
