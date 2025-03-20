@@ -5,7 +5,7 @@ Bem-vindo ao meu repositório de certificados! Aqui estão alguns dos cursos e t
 ## 📂 Organização  
 Os certificados estão organizados em pastas conforme suas respectivas áreas:  
 
-📌 **Tecnologia e Informática**
+📌 **Tecnologia e Informática**                                                                                                                                                           
 📌 **Administração**    
 📌 **Pacote Office**  
 
@@ -24,7 +24,7 @@ Os certificados estão organizados em pastas conforme suas respectivas áreas:
 - 🏅 [Certificado - Informática Avançada (Prepara Cursos Profissionalizantes)]()  
 
 ### 📊 **Administração e Gestão**  
-- - 🏅 [Certificado - Administração e Gestão Empresarial (Fecomércio)](link_para_o_certificado) - **Em andamento (conclusão prevista para [26/09/2025])**
+- 🏅 [Certificado - Administração e Gestão Empresarial (Fecomércio)](link_para_o_certificado) - **Em andamento (conclusão prevista para [26/09/2025])**
 
 ### 📋 **Pacote Office**  
 - 🏅 [Certificado - Excel Intermediário e Avançado (Prepara Cursos profissionalizantes)](link_para_o_certificado)  
