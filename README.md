@@ -12,8 +12,8 @@ Os certificados estão organizados em pastas conforme suas respectivas áreas:
 ## 🏆 Certificados  
 
 ### 🖥️ **Tecnologia e Informática**  
-- 🏅 [Certificado - Introdução à Cibersegurança (Cisco Academy)](link_para_o_certificado)  
-- 🏅 [Certificado - Lógica de Programação e Algoritmos (DIO)](link_para_o_certificado)  
+- 🏅 [Certificado - Introdução à Cibersegurança (Cisco Academy)](https://github.com/Juanzev/Certificados/blob/main/certificado%20Introdu%C3%A7%C3%A3o%20a%20Ciberseguran%C3%A7a.pdf)  
+- 🏅 [Certificado - Python (Cisco Academy)]()  
 - 🏅 [Certificado - Informática Avançada (Prepara Cursos)](link_para_o_certificado)  
 
 ### 📊 **Administração e Gestão**  
