@@ -11,17 +11,24 @@ Os certificados estão organizados em pastas conforme suas respectivas áreas:
 
 ## 🏆 Certificados  
 
+## 🎓 Graduação e Cursos Técnicos  
+
+### 🖥️ **Tecnologia e Informática**  
+- 🏅 **Curso Técnico em Informática - IFAM** - **Cursando** (conclusão prevista para **[07/2025]**)
+- 🏅 **Graduação em Ciências da Computação - UNINORTE** - **Cursando** (conclusão prevista para **[11/2028]**)
+
+
 ### 🖥️ **Tecnologia e Informática**  
 - 🏅 [Certificado - Introdução à Cibersegurança (Cisco Academy)](https://github.com/Juanzev/Certificados/blob/main/certificado%20Introdu%C3%A7%C3%A3o%20a%20Ciberseguran%C3%A7a.pdf)  
-- 🏅 [Certificado - Python (Cisco Academy)]()  
-- 🏅 [Certificado - Informática Avançada (Prepara Cursos)](link_para_o_certificado)  
+- 🏅 [Certificado - Python (Cisco Academy)](https://github.com/Juanzev/Certificados/blob/main/certificado%20Python%20Essentials.pdf)  
+- 🏅 [Certificado - Informática Avançada (Prepara Cursos Profissionalizantes)]()  
 
 ### 📊 **Administração e Gestão**  
-- 🏅 [Certificado - Administração e Gestão Empresarial (Fecomércio)](link_para_o_certificado)  
+- - 🏅 [Certificado - Administração e Gestão Empresarial (Fecomércio)](link_para_o_certificado) - **Em andamento (conclusão prevista para [26/09/2025])**
 
 ### 📋 **Pacote Office**  
-- 🏅 [Certificado - Excel Avançado (Prepara Cursos)](link_para_o_certificado)  
-- 🏅 [Certificado - Word e PowerPoint Profissional (Prepara Cursos)](link_para_o_certificado)  
+- 🏅 [Certificado - Excel Intermediário e Avançado (Prepara Cursos profissionalizantes)](link_para_o_certificado)  
+- 🏅 [Certificado - Word e PowerPoint Intermediário (Prepara Cursos Profissionalizantes)](link_para_o_certificado)  
 
 ## 📩 Contato  
 📧 E-mail: juanpatrick.pp@gmail.com  
