@@ -1,6 +1,6 @@
 # 📜 Meus Certificados  
 
-Bem-vindo ao meu repositório de certificados! Aqui estão alguns dos cursos e treinamentos que concluí e estou concluindo ao longo da minha trajetória acadêmica e profissional.  
+Bem-vindo ao meu repositório de certificados! Aqui você encontrará os cursos e treinamentos que concluí e estou concluindo ao longo da minha trajetória acadêmica e profissional.
 
 ## 📂 Organização  
 Os certificados estão organizados em pastas conforme suas respectivas áreas:  
