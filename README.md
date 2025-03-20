@@ -1,22 +1,21 @@
 # 📜 Meus Certificados  
 
-Bem-vindo ao meu repositório de certificados! Aqui estão alguns dos cursos e treinamentos que concluí ao longo da minha trajetória acadêmica e profissional.  
+Bem-vindo ao meu repositório de certificados! Aqui estão alguns dos cursos e treinamentos que concluí e estou concluindo ao longo da minha trajetória acadêmica e profissional.  
 
 ## 📂 Organização  
 Os certificados estão organizados em pastas conforme suas respectivas áreas:  
 
-📌 **Tecnologia e Informática**                                                                                                                                                           
+📌 **Tecnologia e Informática**  
 📌 **Administração**    
 📌 **Pacote Office**  
-
-## 🏆 Certificados  
 
 ## 🎓 Graduação e Cursos Técnicos  
 
 ### 🖥️ **Tecnologia e Informática**  
-- 🏅 **Curso Técnico em Informática - IFAM** - **Cursando** (conclusão prevista para **[07/2025]**)
+- 🏅 **Curso Técnico em Informática - IFAM** - **Cursando** (conclusão prevista para **[07/2025]**)  
 - 🏅 **Graduação em Ciências da Computação - UNINORTE** - **Cursando** (conclusão prevista para **[11/2028]**)
 
+## 🏆 Certificados  
 
 ### 🖥️ **Tecnologia e Informática**  
 - 🏅 [Certificado - Introdução à Cibersegurança (Cisco Academy)](https://github.com/Juanzev/Certificados/blob/main/certificado%20Introdu%C3%A7%C3%A3o%20a%20Ciberseguran%C3%A7a.pdf)  
@@ -32,4 +31,4 @@ Os certificados estão organizados em pastas conforme suas respectivas áreas:
 
 ## 📩 Contato  
 📧 E-mail: juanpatrick.pp@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/juan-patrick-724075300/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/juan-patrick-724075300/)
