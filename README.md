@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório de certificados! Aqui estão alguns dos cursos e t
 
 ## 📂 Organização  
 Os certificados estão organizados em pastas conforme suas respectivas áreas:  
-
+📌 **Graduação e curso Técnico** 
 📌 **Tecnologia e Informática**  
 📌 **Administração**    
 📌 **Pacote Office**  
