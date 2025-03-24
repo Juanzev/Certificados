@@ -28,9 +28,7 @@ Os certificados estão organizados em pastas conforme suas respectivas áreas:
 - 🏅 [Certificado - Introdução a Python (Santander academy)](https://github.com/Juanzev/Certificados/blob/main/introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20python.pdf)  
 
 #### 🌐 **JavaScript**
-- 🏅 [Certificado - Fundamentos de JavaScript]()  
-- 🏅 [Certificado - JavaScript para Desenvolvimento Web](link_para_o_certificado)  
-
+- 🏅 [Certificado - Formação em JavaScript e desenvolvimento web](https://github.com/Juanzev/Certificados/blob/main/Forma%C3%A7%C3%A3o%20Javascript.jpg)  
 
 ### 📊 **Administração e Gestão**  
 - 🏅 [Certificado - Administração e Gestão Empresarial (Fecomércio)](link_para_o_certificado) - **Em andamento (conclusão prevista para [26/09/2025])**
