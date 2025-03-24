@@ -20,7 +20,7 @@ Os certificados estão organizados em pastas conforme suas respectivas áreas:
 ### 🖥️ **Tecnologia e Informática**  
 - 🏅 [Certificado - Introdução à Cibersegurança (Cisco Academy)](https://github.com/Juanzev/Certificados/blob/main/certificado%20Introdu%C3%A7%C3%A3o%20a%20Ciberseguran%C3%A7a.pdf)
 - 🏅 [Certificado - Formação em cibersegurança (Digital inovation One)](https://github.com/Juanzev/Certificados/blob/main/forma%C3%A7%C3%A3o%20ciberseguran%C3%A7a.jpg)    
-- 🏅 [Certificado - Informática Avançada (Prepara Cursos Profissionalizantes)]()
+- 🏅 [Certificado - Informática Avançada (Prepara Cursos Profissionalizantes)](https://github.com/Juanzev/Certificados/blob/main/certificado%20informatica%20basica%20e%20avan%C3%A7ada_.jpeg)
 
 ### ⚙️ **Linguagens de Programação**  
 
@@ -35,8 +35,8 @@ Os certificados estão organizados em pastas conforme suas respectivas áreas:
 - 🏅 [Certificado - Administração e Gestão Empresarial (Fecomércio)](link_para_o_certificado) - **Em andamento (conclusão prevista para [26/09/2025])**
 
 ### 📋 **Pacote Office**  
-- 🏅 [Certificado - Excel Intermediário e Avançado (Prepara Cursos profissionalizantes)](link_para_o_certificado)  
-- 🏅 [Certificado - Word e PowerPoint Intermediário (Prepara Cursos Profissionalizantes)](link_para_o_certificado)  
+- 🏅 [Certificado - Excel Intermediário e Avançado (Prepara Cursos profissionalizantes)](https://github.com/Juanzev/Certificados/blob/main/certificado%20informatica%20basica%20e%20avan%C3%A7ada_.jpeg)  
+- 🏅 [Certificado - Word e PowerPoint Intermediário (Prepara Cursos Profissionalizantes)](https://github.com/Juanzev/Certificados/blob/main/certificado%20informatica%20basica%20e%20avan%C3%A7ada_.jpeg)  
 
 ## 📩 Contato  
 📧 E-mail: juanpatrick.pp@gmail.com  
