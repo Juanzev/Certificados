@@ -21,6 +21,7 @@ Os certificados estão organizados em pastas conforme suas respectivas áreas:
 - 🏅 [Certificado - Introdução à Cibersegurança (Cisco Academy)](https://github.com/Juanzev/Certificados/blob/main/certificado%20Introdu%C3%A7%C3%A3o%20a%20Ciberseguran%C3%A7a.pdf)
 - 🏅 [Certificado - Formação em cibersegurança (Digital inovation One)](https://github.com/Juanzev/Certificados/blob/main/forma%C3%A7%C3%A3o%20ciberseguran%C3%A7a.jpg)    
 - 🏅 [Certificado - Informática Avançada (Prepara Cursos Profissionalizantes)](https://github.com/Juanzev/Certificados/blob/main/certificado%20informatica%20basica%20e%20avan%C3%A7ada_.jpeg)
+- 🏅 [Certificado - Lógica de Programação (Digital Inovation One)]()
 
 ### ⚙️ **Linguagens de Programação**  
 
